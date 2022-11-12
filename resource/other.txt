@@ -1,0 +1,29 @@
+Other
+
+Project Code: 2022-SP2-27
+
+Project Title: Plagiarism Checker
+
+Development Team Members:
+  Ghee Khoon Ang (anggy009@mymail.unisa.edu.au)
+  Zexi Zhao (zhazy126@mymail.unisa.edu.au)
+  Xinyue Lei (leixy004@mymail.unisa.edu.au)
+  Xiaoling Quan (quaxy002@mymail.unisa.edu.au)
+
+Academic Supervisor(s): Assoc. Prof. Dhika Pratama (Dhika.Pratama@unisa.edu.au)
+
+
+
+
+-----------------TO USERS-----------------
+
+Thanks to all the teachers and client who provided help and guidance to the team during the project development.
+
+The team will continue to add new features to improve the system in the future.
+
+Please contact us thru email if you have any problems with application.
+
+Regards
+
+
+26/06/2022

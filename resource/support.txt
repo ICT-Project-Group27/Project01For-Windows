@@ -1,0 +1,25 @@
+Support
+
+Operation System: Windows
+Input
+Input format: Text files and code files are supported
+Input media: mouse, keyboard
+Quality Management: The minimum number of uploaded files is 2, and the system will not be detectable when the number of files uploaded by the user is less than 2.
+
+Data background
+Data Source: Locally stored code files
+
+Data structures
+Number：>=2
+Format：files (Text files and code files)
+Content：Code text in the selected language (Python, Java...)
+
+Output
+Output Format: Only files in txt format are supported
+Use: Charts are used to quickly view detections
+The document is used to download and save the test record
+Media: display, mouse
+
+Data structure
+Visualization chart: Pie chart 
+Report：TXT doucumentation

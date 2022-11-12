@@ -1,0 +1,18 @@
+Function and introduced
+
+Language selection：
+  User can choose then computer language on their requirement.
+
+Upload
+  Users can select the language of the files to be tested and then upload the files to be tested in bulk, click submit and the system will test the files one by one
+
+Results
+  After the user submits the test files, the system will test the files one by one and display the duplication rate of each file in the form of a preview under this function, below 20% is green, 20%~50% is orange, above 50% is red.
+Users can select one of the files to preview the detailed duplicate detection report
+
+Result Graph
+  The Result Graph page can display the number of repetition rates for all files. 
+
+The Report page
+  The Report page can display a preview of the file selected by the user, and the user can choose to download all duplicate reports or download the currently The Report page can display a preview of the file selected by the user, and the user can choose to download all duplicate reports or download the currently viewed duplicate report. 
+

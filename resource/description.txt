@@ -1,0 +1,19 @@
+Description and introduction
+
+The purpose of the plagiarism checking system is used to compare and check whether if the student plagiarism for their work or not. 
+
+This can be done by just upload bulk of student work into the plagiarism checker system and the software will then analyse by using the algorithms and compare student work and generates each student plagiarism report. 
+
+The report will consist of the percentage of the similarity work and the details of the similarities.    
+
+This system is committed to code similarity detection.After users upload TXT files, the system will detect them and generate a similarity report.
+
+
+*The system adds a new detection language, supporting more types of files for detection
+
+*The system has optimized the UI interface to improve the efficiency of use
+
+*The system adds online preview function for detection reports, users can selectively download individual reports according to their needs
+
+*After batch detection, the system will display the detection results of all files in the form of percentages, and distinguish them with different colors
+
